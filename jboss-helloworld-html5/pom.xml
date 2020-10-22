@@ -29,6 +29,8 @@
         <!-- remove this line to download too many codes <relativePath>../pom.xml</relativePath> -->
         <!-- This is testing Jenkins pull -->
         <!-- This is testing Jenkins pull -->
+        <!-- This is testing Jenkins pull -->
+        <!-- This is testing Jenkins pull -->
     </parent>
     <artifactId>helloworld-html5</artifactId>
     <packaging>war</packaging>
