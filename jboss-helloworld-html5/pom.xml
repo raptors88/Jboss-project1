@@ -31,7 +31,6 @@
         <!-- This is testing Jenkins pull -->
         <!-- This is testing Jenkins pull -->
         <!-- This is testing Jenkins pull -->
-        <!-- This is testing Jenkins pull -->
     </parent>
     <artifactId>helloworld-html5</artifactId>
     <packaging>war</packaging>
